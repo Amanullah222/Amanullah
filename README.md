@@ -8,7 +8,7 @@ Tools and Technologies: Microsoft Office, Datadog, MongoDB, Pingdom, RabbitMQ, S
 Technical Support: I have experience in troubleshooting and providing technical assistance to users, ensuring the smooth operation of software systems.
 
 ## 🌐 Networking:
-(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/rao-amanullah-136b80115) [![Github]
+(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([linkedin.com/in/rao-amanullah-136b80115/](https://www.linkedin.com/in/rao-amanullah-136b80115/)) [![Github]
 
 ## 💻 Tech. Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
