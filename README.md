@@ -16,7 +16,7 @@ Technical Support: I have experience in troubleshooting and providing technical 
 ![Matlab](https://img.shields.io/badge/matlab-FF6C37?style=for-the-badge&logo=mathworks&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black)
-![Simulink](https://img.shields.io/badge/Simulink-%23FB9224.svg?style=for-the-badge&logo=simulink&logoColor=white
+![Simulink](https://img.shields.io/badge/Simulink-%23FB9224.svg?style=for-the-badge&logo=simulink&logoColor=white)
 
 
 
